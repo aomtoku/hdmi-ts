@@ -32,7 +32,7 @@ connect serial and JTAG cables in advance.
     $ cd boards/atlys/synthesis  
     $ make load  
 
-## Preview HDMI-TS
+## DEMO : HDMI-TS
 ![hdmi-ts-app](http://web.sfc.wide.ad.jp/~aom/img/hdmi-ts-ap.png "hdmi-ts-app")
 
 
