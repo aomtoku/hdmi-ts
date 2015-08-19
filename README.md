@@ -2,8 +2,7 @@
 
 ## Directory Structure  
  /cores/  Cores library, with Verilog sources, test benches and documentation.  
- /boards/     Top-level design files, constraint files and Makefiles
-                for supported FPGA boards.
+ /boards/     Top-level design files, constraint files and Makefiles for supported FPGA boards.  
  /software/   Software.
 
 
