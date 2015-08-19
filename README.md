@@ -1,5 +1,11 @@
 #HDMI Transport System Project
 
+HDMI-TS (HDMI Transport System) is low-latency HDMI video communication system by IP (Internet Protocol).
+Sophisticated interactions between remote places requires low-latency such as, cooperative-working, remote controle, etc...
+To this end, we developped sync method for video processing by hardware, RV-SYNC (Remote Virtical Sync).
+The latency to remote host is equivalent to Virtical Front Porch Periods (e.g. 25 lines on 720p) on no L2/L3 switches.
+
+
 ## Directory Structure  
  /cores/  Cores library, with Verilog sources, test benches and documentation.  
  /boards/     Top-level design files, constraint files and Makefiles for supported FPGA boards.  
