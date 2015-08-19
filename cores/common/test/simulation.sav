@@ -1,0 +1,47 @@
+[*]
+[*] GTKWave Analyzer v3.3.41 (w)1999-2012 BSI
+[*] Tue Oct 22 12:18:38 2013
+[*]
+[dumpfile] "/home/aom/Work/ver/Atlys/Gmii_receive/core/common/simulation/test.vcd"
+[dumpfile_mtime] "Tue Oct 22 12:14:35 2013"
+[dumpfile_size] 11247915
+[savefile] "/home/aom/Work/ver/Atlys/Gmii_receive/core/common/simulation/simulation.sav"
+[timestart] 44331800
+[size] 1600 1117
+[pos] -1 -1
+*-15.311248 44423800 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_apple_out.
+[sst_width] 226
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 323
+@28
+tb_apple_out.apple_out.hactive
+tb_apple_out.apple_out.vactive
+@22
+tb_apple_out.apple_out.i_vcnt[11:0]
+@28
+tb_apple_out.apple_out.i_clk_125M
+tb_apple_out.apple_out.rx_dv
+tb_apple_out.apple_out.rx_en
+@22
+tb_apple_out.apple_out.rxd[7:0]
+@28
+tb_apple_out.apple_out.fifo_start
+tb_apple_out.apple_out.i_clk_74M
+@24
+tb_apple_out.apple_out.i_hcnt[11:0]
+@28
+tb_apple_out.apple_out.fifo_write
+@23
+tb_apple_out.apple_out.din[47:0]
+@22
+tb_apple_out.apple_out.data[47:0]
+@24
+tb_apple_out.apple_out.fifo_read
+@22
+tb_apple_out.apple_out.o_b[7:0]
+tb_apple_out.apple_out.o_g[7:0]
+tb_apple_out.apple_out.o_r[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

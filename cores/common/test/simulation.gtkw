@@ -1,0 +1,36 @@
+[*]
+[*] GTKWave Analyzer v3.3.41 (w)1999-2012 BSI
+[*] Sat Nov  2 19:15:48 2013
+[*]
+[dumpfile] "/home/aom/Work/ver/Atlys/Gmii_receive/boards/atlys/simulation/test.vcd"
+[dumpfile_mtime] "Sat Nov  2 18:43:19 2013"
+[dumpfile_size] 4715708476
+[optimize_vcd]
+[savefile] "/home/aom/Work/ver/Atlys/Gmii_receive/core/common/simulation/simulation.gtkw"
+[timestart] 33561640000
+[size] 1600 1117
+[pos] -6 -65
+*-22.237671 33586760000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_hdmioverip.
+[sst_width] 226
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 323
+@28
+tb_hdmioverip.dataproc.i_clk_74M
+tb_hdmioverip.dataproc.i_clk_125M
+tb_hdmioverip.dataproc.fifo_read
+tb_hdmioverip.dataproc.fifo_wr_en
+tb_hdmioverip.gmii2fifo24.rx_dv
+@22
+tb_hdmioverip.gmii2fifo24.rxd[7:0]
+@28
+tb_hdmioverip.dataproc.full
+tb_hdmioverip.dataproc.empty
+tb_hdmioverip.asfifo.RdEn
+tb_hdmioverip.asfifo.WrEn
+@24
+tb_hdmioverip.dataproc.i_vcnt[11:0]
+tb_hdmioverip.dataproc.i_hcnt[11:0]
+[pattern_trace] 1
+[pattern_trace] 0
