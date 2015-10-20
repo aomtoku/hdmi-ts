@@ -1,0 +1,52 @@
+[*]
+[*] GTKWave Analyzer v3.3.41 (w)1999-2012 BSI
+[*] Sat Nov  2 19:01:12 2013
+[*]
+[dumpfile] "/home/aom/Work/ver/Atlys/Gmii_send/bords/Atlys/test/test.vcd"
+[dumpfile_mtime] "Sat Nov  2 18:34:34 2013"
+[dumpfile_size] 998975401
+[optimize_vcd]
+[savefile] "/home/aom/Work/ver/Atlys/Gmii_send/bords/Atlys/test/dvisimu.gtkw"
+[timestart] 611130000
+[size] 1600 1117
+[pos] -6 -65
+*-23.330540 627244000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_dvi_demo.
+[sst_width] 226
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 323
+@28
+tb_dvi_demo.tmds_clk
+tb_dvi_demo.phy_clk
+@22
+tb_dvi_demo.vsync[3:0]
+@28
+tb_dvi_demo.hsyn
+@29
+tb_dvi_demo.vsyn
+@22
+tb_dvi_demo.in_hcnt[11:0]
+@24
+tb_dvi_demo.in_vcnt[11:0]
+@22
+tb_dvi_demo.TXD[7:0]
+@28
+tb_dvi_demo.TXEN
+tb_dvi_demo.asfifo.WrEn
+@22
+tb_dvi_demo.asfifo.Data[47:0]
+tb_dvi_demo.din_fifo[47:0]
+@28
+tb_dvi_demo.asfifo.Empty
+tb_dvi_demo.asfifo.Full
+@22
+tb_dvi_demo.asfifo.Q[47:0]
+@28
+tb_dvi_demo.asfifo.RdEn
+@22
+tb_dvi_demo.blue[7:0]
+@28
+tb_dvi_demo.asfifo.Reset
+[pattern_trace] 1
+[pattern_trace] 0
