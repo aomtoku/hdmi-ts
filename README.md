@@ -1,4 +1,4 @@
-#HDMI Transport System Project
+# HDMI Transport System Project
 
 HDMI-TS (HDMI Transport System) is low-latency HDMI video communication system by IP (Internet Protocol).
 Sophisticated interactions between remote places requires low-latency such as, cooperative-working, remote controle, etc...
@@ -36,9 +36,9 @@ connect serial and JTAG cables in advance.
 ![hdmi-ts-app](http://web.sfc.wide.ad.jp/~aom/img/hdmi-ts-ap.png "hdmi-ts-app")
 
 
-## Documentation
-
-
+## Published Paper (Domestic only)
+ - Yuta Tokusashi, Yohei Kuga, Takeshi Matsuya, Osamu Nakamura, “Design and Implementation of An FPGA-Based Low-Latency HDMI Video Synchronization System”, IPSJ Journal, Vol.56, No.8 pp.1593-1603, Aug 2015. \[[IPSJ](http://id.nii.ac.jp/1001/00144711/)\]
+ - Yuta Tokusashi, Yohei Kuga, Takeshi Matsuya, Jun Murai, “Improving the Naturalness of Internet Video Conversation using a Low-Latency Pipeline”, Proc. of Multimedia, Distributed, Cooperative and Mobile Symposium (DICOMO’13), Vol.2013, pp911-917, Jul 2013. \[[IPSJ](http://id.nii.ac.jp/1001/00097239/)\]
 
 ## Contact 
 Email : aom at sfc.wide.ad.jp
